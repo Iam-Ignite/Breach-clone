@@ -1,0 +1,50 @@
+[
+	{
+		"image": "/img/breach.png",
+		"title": "Breach 2.0: Become the writer of your dreams",
+		"headline": "BREACH ANNOUNCEMENTS",
+		"description": "Breach is bigger and better. Read, write, and connect with your interests away from the noisy internet.",
+		"host": "ADETOMIWA",
+		"date": "OCT 24, 2022"
+	},
+	{
+		"image": "/img/crypto.jpeg",
+		"title": "Why the Ethereum merge is the biggest event in crypto",
+		"headline": "THE CRYPTOVERSE",
+		"description": "Here's why the Ethereum merge is a big deal. Reasons to be hyped and reasons to be concerned.",
+		"host": "ADENIYI OLOWO",
+		"date": "AUG 29, 2022"
+	},
+	{
+		"image": "/img/image.png",
+		"title": "Why are we discussing my weight?",
+		"headline": "IN EVERY MIRROR, YOU ARE YOU",
+		"description": "We glance into the lives of four Nigerians, and their struggles with meeting the beauty standards of size as defined by society.",
+		"host": "Oluwatumininu",
+		"date": "Nov 16, 2022"
+	},
+	{
+		"image": "/img/level.png",
+		"title": "How Dalu Akabogu turned a tough break into a series of big breaks",
+		"headline": "LEVEL UP",
+		"description": "The marathon continues.",
+		"host": "Toheeb",
+		"date": "Oct 11, 2022"
+	},
+	{
+		"image": "/img/money.png",
+		"title": "On migration: What are parents losing when a child moves away?",
+		"headline": "WORK IN PROGRESS",
+		"description": "The final past of a three-part series on Migration and Relationships.",
+		"host": "Adetomiwa",
+		"date": "Sep 2, 2022"
+	},
+	{
+		"image": "/img/working.png",
+		"title": "Money: How to be a rich woman in Nigeria",
+		"headline": "WORK IN PROGRESS",
+		"description": "The fourth of a 6-part series on our relationship with money",
+		"host": "Adetomiwa",
+		"date": "Oct 7, 2022"
+	}
+]
